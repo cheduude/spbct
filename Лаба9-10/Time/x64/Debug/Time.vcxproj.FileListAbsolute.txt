@@ -1,0 +1,2 @@
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Time\x64\Debug\Time.exe
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Time\x64\Debug\Time.pdb
