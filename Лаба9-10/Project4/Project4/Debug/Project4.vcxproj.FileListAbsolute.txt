@@ -1,0 +1,5 @@
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Project4\Project4\Debug\Project4.vcxprojAssemblyReference.cache
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Project4\Project4\Debug\Project4.MyForm.resources
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Project4\Project4\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Project4\Project4\Debug\Project4.exe
+C:\Users\coook\OneDrive\Рабочий стол\spbct_503\Лаба9-10\Project4\Project4\Debug\Project4.pdb
